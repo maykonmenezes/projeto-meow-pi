@@ -190,7 +190,7 @@ a,
 /*COR ROSA PARA OS LINKS DA NAVBAR*/
 .navbar-custom .nav li > a:hover{
   cursor: url("../img/pata.cur"),default;
-  color: #F53FCF;
+  color: #FF9326;
 }
 
 
