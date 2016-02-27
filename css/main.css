@@ -18,6 +18,14 @@ body{
   overflow-x:hidden;
 }
 
+.cadastro-cover {
+  background-image: url("../img/cat.jpg");
+  background-size:100% 100%;
+  width: 100%;
+  margin-top: 0px;
+  padding: 150px;
+}
+
 .main-login{
   background-image: url("../img/bg-sugestoes.jpg");
   background-size:100% 100%;
@@ -70,6 +78,10 @@ body{
 .btn-inverse{
   background-color: #222;
   color: #ddd;
+}
+
+h2 {
+  font-family: "Inconsolata", Verdana, sans-serif;
 }
 
 /* ------------------------------------------------------------------
